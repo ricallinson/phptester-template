@@ -2,7 +2,7 @@
 
 A simple template project for PHP.
 
-	git clone git@github.com:ricallinson/phptest-template.git new-project
+	git clone git@github.com:ricallinson/phptester-template.git new-project
 	cd new-project
 	rm -rf .git
 	npm i
