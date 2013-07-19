@@ -1,0 +1,26 @@
+{
+    "name": "new-project",
+    "description": "New project.",
+    "version": "0.1.0",
+    "author": {
+        "name": "Name",
+        "email": "name@email.com"
+    },
+    "engines": {
+        "php": ">= 5.4.0"
+    },
+    "dependencies" : {
+        "php-require": "*"
+    },
+    "devDependencies" : {
+        "php-tester": "git://github.com/ricallinson/php-tester.git#master"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:username/new-project.get"
+    },
+    "scripts": {
+        "test": "./test/run"
+    },
+    "license": "MIT"
+}
