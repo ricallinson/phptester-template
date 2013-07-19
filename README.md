@@ -1,4 +1,4 @@
-# Phptest-template
+# Phptester-template
 
 A simple template project for PHP.
 
