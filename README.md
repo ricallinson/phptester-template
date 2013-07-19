@@ -12,6 +12,7 @@ A simple template project for PHP.
 
 These are required to be installed before running the example above.
 
+* [PHP](http://php.net/)
 * [nodejs](http://nodejs.org/)
 * [npm](https://npmjs.org/) (installed automatically by `nodejs`)
 
